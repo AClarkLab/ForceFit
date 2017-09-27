@@ -6,4 +6,4 @@ The *ForceFit* program package has been developed for fitting classical force fi
 
 Any results obtained with *ForceFit* should refer to the following publication:
 
-Waldher, B.; Kuta, J.; Chen, S.; Henson, N.; Clark, A. E. ForceFit: A Code to Fit Classical Force Fields to Quantum Mechanical Potential Energy Surfaces, J. Comp. Chem. **2010**, *31*, 2307-2316.
+Waldher, B.; Kuta, J.; Chen, S.; Henson, N.; Clark, A. E. "*ForceFit*: A Code to Fit Classical Force Fields to Quantum Mechanical Potential Energy Surfaces", J. Comp. Chem. **2010**, *31*, 2307-2316.
